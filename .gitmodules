@@ -1,0 +1,8 @@
+[submodule "oejia_wx"]
+	path = oejia_wx
+	url = https://github.com/JoneXiong/oejia_wx.git
+	branch = 12.0
+[submodule "oejia_weshop"]
+	path = oejia_weshop
+	url = https://github.com/JoneXiong/oejia_weshop.git
+	branch = 12.0
